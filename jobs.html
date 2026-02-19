@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Categories Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <a href="index.html">Classic</a>
+        <a href="fantasy.html">Fantasy</a>
+        <a href="physical.html">Descriptions</a>
+        <a href="jobs.html" class="active">Jobs</a>
+    </nav>
+    <div class="container">
+        <header>
+            <h1>Job Categories</h1>
+            <p class="subtitle">Random career paths and potentials</p>
+        </header>
+
+        <main>
+            <div class="display-container">
+                <div class="name-card job-card">
+                    <span class="label">Job Title</span>
+                    <h2 id="job-title">---</h2>
+
+                    <div class="job-details">
+                        <div class="detail-item">
+                            <span class="label">Category</span>
+                            <p id="job-category">---</p>
+                        </div>
+                        <div class="detail-item">
+                            <span class="label">Wealth</span>
+                            <p id="job-wealth">---</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button id="generate-btn">Generate Career</button>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Name Generator</p>
+        </footer>
+    </div>
+    <script src="jobs.js"></script>
+</body>
+
+</html>

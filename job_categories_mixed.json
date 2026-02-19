@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Investment Banker",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Hedge Fund Manager",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Private Equity Partner",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Neurosurgeon",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Orthopedic Surgeon",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Tech Startup Founder",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Venture Capitalist",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Corporate Attorney",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Real Estate Developer",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Chief Executive Officer",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Anesthesiologist",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Radiologist",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Quantitative Trader",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Blockchain Entrepreneur",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "AI Research Scientist",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Luxury Brand Owner",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Energy Company Executive",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Airline Owner",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Film Producer",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Professional Athlete",
+    "category": "High Income",
+    "wealth_potential": "Wealthy"
+  },
+  {
+    "title": "Registered Nurse",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Software Developer",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Accountant",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Mechanical Engineer",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Marketing Manager",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Police Officer",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Firefighter",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "High School Teacher",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Electrician",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Plumber",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Construction Manager",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "UX Designer",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Data Analyst",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "HR Manager",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Operations Manager",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Financial Advisor",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Logistics Coordinator",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Project Manager",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Architect",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Pharmacist",
+    "category": "Middle Income",
+    "wealth_potential": "Comfortable"
+  },
+  {
+    "title": "Retail Cashier",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Fast Food Worker",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Warehouse Associate",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Janitor",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Delivery Driver",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Line Cook",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Barista",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Hotel Housekeeper",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Call Center Representative",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Security Guard",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Grocery Clerk",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Farm Laborer",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Dishwasher",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Parking Attendant",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Library Assistant",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Movie Theater Attendant",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Receptionist",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Pet Grooming Assistant",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Gas Station Clerk",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Food Service Worker",
+    "category": "Lower Income",
+    "wealth_potential": "Limited"
+  },
+  {
+    "title": "Dragon Tamer",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Time Traveler Consultant",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Intergalactic Diplomat",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Cloud Architect of Dreams",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Memory Archivist",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Shadow Broker",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Starship Navigator",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Portal Engineer",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Spell Auditor",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Mythical Beast Veterinarian",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Galactic Cartographer",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Dimensional Smuggler",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Royal Potion Brewer",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Cybernetic Enhancement Artist",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Dreamscape Designer",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Reality Glitch Fixer",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Chrono Mechanic",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Rune Translator",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Astral Projection Coach",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  },
+  {
+    "title": "Void Energy Miner",
+    "category": "Fictional",
+    "wealth_potential": "Varies"
+  }
+]

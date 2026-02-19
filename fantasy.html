@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Name Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <a href="index.html">Classic</a>
+        <a href="fantasy.html" class="active">Fantasy</a>
+        <a href="physical.html">Descriptions</a>
+        <a href="jobs.html">Jobs</a>
+    </nav>
+    <div class="container">
+        <header>
+            <h1>Fantasy Names</h1>
+            <p class="subtitle">Legendary male and female names</p>
+        </header>
+
+        <main>
+            <div class="display-grid">
+                <div class="name-card male">
+                    <span class="label">Male</span>
+                    <h2 id="male-name">---</h2>
+                </div>
+                <div class="name-card female">
+                    <span class="label">Female</span>
+                    <h2 id="female-name">---</h2>
+                </div>
+            </div>
+
+            <button id="generate-btn">Generate Names</button>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Name Generator</p>
+        </footer>
+    </div>
+    <script src="fantasy.js"></script>
+</body>
+
+</html>
